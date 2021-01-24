@@ -5,6 +5,10 @@ The purpose of this analysis is to see if there are any discrepencies in the mat
 Results: Using bulleted lists and images of DataFrames as support, address the following questions.
 
 How is the district summary affected?
+The previous district analysis showes:
+- % passing math - 75%
+- % passing reading - 86%
+- % overall passing - 65%
 
 
 How is the school summary affected?
