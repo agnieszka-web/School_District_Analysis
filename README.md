@@ -49,7 +49,9 @@ How does replacing the ninth graders’ math and reading scores affect Thomas Hi
 
 How does replacing the ninth-grade scores affect the following:
 
-Math and reading scores by grade
+# Math and reading scores by grade:
+
+
 
 # Scores by school spending: 
 School spending increased after taking the Nan from Thomas High School.  
@@ -67,5 +69,9 @@ Comparing before and after: As we compare the two we can see that the overall pa
 
 ![](images/AverageScoresbySchoolSizenew.PNG)
 
-Scores by school type
+# Scores by school type:
+Comparing before and after: As we compare the two we can see that the school type overall passing % 
+
+
+
 Summary: Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
