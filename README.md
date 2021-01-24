@@ -32,11 +32,33 @@ Comparing two schools to see if the results changed:
 
 
 
+Comparing the new Analysis with the two same schools:
+- Ford High School - % passing reading - 68.3%
+                   - % passing reading - 79.3%
+                   
+- Baily High School - % passing reading - 81.9%
+                    - % passing math - 66.7%
+
+![](images/PerSchoolSummaryNew.PNG)
+
+As we can see the were no changes.
+
+
 
 How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+
 How does replacing the ninth-grade scores affect the following:
+
 Math and reading scores by grade
-Scores by school spending
+
+Scores by school spending: 
+School spending increased after taking the Nan from Thomas High School 
+Below are the comparisons of before and after
+
+
+
+
 Scores by school size
+
 Scores by school type
 Summary: Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
