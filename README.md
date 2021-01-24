@@ -54,6 +54,8 @@ Math and reading scores by grade
 Scores by school spending: 
 School spending increased after taking the Nan from Thomas High School 
 Below are the comparisons of before and after
+![](images/SpendingbeforeNans.PNG)
+
 
 
 
