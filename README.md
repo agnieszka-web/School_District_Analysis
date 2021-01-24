@@ -70,9 +70,10 @@ Comparing before and after: As we compare the two we can see that the overall pa
 ![](images/AverageScoresbySchoolSizenew.PNG)
 
 # Scores by school type:
-Comparing before and after: As we compare the two we can see that the school type overall passing % 
+Comparing before and after: As we compare the two we can see that the school type overall passing % didn't change.
 ![](images/SchoolTypeBefore.PNG)
 
+![](images/SchoolTypeAfter.PNG)
 
 
 Summary: Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
