@@ -71,6 +71,7 @@ Comparing before and after: As we compare the two we can see that the overall pa
 
 # Scores by school type:
 Comparing before and after: As we compare the two we can see that the school type overall passing % 
+![](images/SchoolTypeBefore.PNG)
 
 
 
