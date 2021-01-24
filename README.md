@@ -9,6 +9,12 @@ The previous district analysis showes:
 - % passing math - 75%
 - % passing reading - 86%
 - % overall passing - 65%
+![](images/OldDistrictSummary.PNG)
+The new district analysis showes:
+-% passing math - 73.9%
+-% passing reading - 84.7%
+-% overall passing - 64.1%
+
 
 
 How is the school summary affected?
