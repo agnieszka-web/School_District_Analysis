@@ -21,7 +21,17 @@ The new district analysis:
 
 How is the school summary affected?
 Comparing two schools to see if the results changed: 
-![](
+- Ford High School - % passing reading - 68.3%
+                   - % passing reading - 79.3%
+                   
+- Baily High School - % passing reading - 81.9%
+                    - % passing math - 66.7%
+                    
+![](images/PerSchoolSummaryOld.PNG)
+
+
+
+
 
 How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 How does replacing the ninth-grade scores affect the following:
