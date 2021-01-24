@@ -19,7 +19,7 @@ The new district analysis:
 
 ![](images/NewDistrictSummary.PNG)
 
-How is the school summary affected?
+# How is the school summary affected?
 Comparing two schools to see if the results changed: 
 - Ford High School - % passing reading - 68.3%
                    - % passing reading - 79.3%
@@ -51,7 +51,7 @@ How does replacing the ninth-grade scores affect the following:
 
 Math and reading scores by grade
 
-Scores by school spending: 
+# Scores by school spending: 
 School spending increased after taking the Nan from Thomas High School.  
 Below are the comparisons of before and after
 ![](images/SpendingbeforeNans.PNG)
@@ -61,7 +61,9 @@ Below are the comparisons of before and after
 
 
 
-Scores by school size
+# Scores by school size:
+Comparing before and after:
+![](images/AverageScoresbySchoolSizeold.PNG)
 
 Scores by school type
 Summary: Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
