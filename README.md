@@ -2,22 +2,27 @@
 
 The purpose of this analysis is to see if there are any discrepencies in the math and reading scores at Thomas High School as there are evidence of academic dishonesty.
 
-Results: Using bulleted lists and images of DataFrames as support, address the following questions.
 
 How is the district summary affected?
-The previous district analysis showes:
+
+The previous district analysis:
 - % passing math - 75%
 - % passing reading - 86%
 - % overall passing - 65%
+
 ![](images/OldDistrictSummary.PNG)
-The new district analysis showes:
--% passing math - 73.9%
--% passing reading - 84.7%
--% overall passing - 64.1%
 
+The new district analysis:
+- % passing math - 73.9%
+- % passing reading - 84.7%
+- % overall passing - 64.1%
 
+![](images/NewDistrictSummary.PNG)
 
 How is the school summary affected?
+Comparing two schools to see if the results changed: 
+![](
+
 How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 How does replacing the ninth-grade scores affect the following:
 Math and reading scores by grade
