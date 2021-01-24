@@ -62,8 +62,10 @@ Below are the comparisons of before and after
 
 
 # Scores by school size:
-Comparing before and after:
+Comparing before and after: As we compare the two we can see that the overall passing % increased after the taking out Nans. 
 ![](images/AverageScoresbySchoolSizeold.PNG)
+
+![](images/AverageScoresbySchoolSizenew.PNG)
 
 Scores by school type
 Summary: Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
