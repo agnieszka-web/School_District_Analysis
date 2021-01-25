@@ -51,7 +51,13 @@ How does replacing the ninth-grade scores affect the following:
 
 # Math and reading scores by grade:
 These below images are before the Nans were taken out:
+![](images/MathScoreBefore.PNG), 
+![](images/ReadingScoreBefore.PNG)
 
+
+The below images are after the Nans:
+![](images/MathScoreAfter.PNG)
+![](images/ReadingScoreAfter.PNG)
 
 # Scores by school spending: 
 School spending increased after taking the Nan from Thomas High School.  
@@ -75,4 +81,6 @@ Comparing before and after: As we compare the two we can see that the school typ
 ![](images/SchoolTypeAfter.PNG)
 
 
-Summary: Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+Summary: 
+
+The overall passing average was higher in the dataframes for School Spending, School by size, math and reading scores, and the overall passing in the district summary where the Nans were removed.  
