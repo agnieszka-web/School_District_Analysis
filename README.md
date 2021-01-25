@@ -51,12 +51,7 @@ How does replacing the ninth-grade scores affect the following:
 
 # Math and reading scores by grade:
 These below images are before the Nans were taken out:
-![](images/MathScoreBefore.PNG)
-![](images/ReadingScoreBefore.PNG)
 
-The below images are after the Nans:
-![](images/MathScoreAfter.PNG)
-![](images/ReadingScoreAfter.PNG)
 
 # Scores by school spending: 
 School spending increased after taking the Nan from Thomas High School.  
