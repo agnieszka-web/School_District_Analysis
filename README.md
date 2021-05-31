@@ -1,6 +1,6 @@
 # School_District_Analysis
 
-The purpose of this analysis is to see if there are any discrepencies in the math and reading scores at Thomas High School as there are evidence of academic dishonesty.
+The purpose of this analysis is to see if there are any discrepencies in the math and reading scores at Thomas High School as there is evidence of academic dishonesty.
 
 
 How is the district summary affected?
