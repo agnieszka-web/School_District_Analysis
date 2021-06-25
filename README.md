@@ -83,4 +83,4 @@ Comparing before and after: As we compare the two we can see that the school typ
 
 Summary: 
 
-The overall passing average was higher in the dataframes for School Spending, School by size, math and reading scores, and the overall passing in the district summary where the Nans were removed.  
+The overall passing average was higher in the dataframes for School Spending, School by size, Math and Reading scores, and the Overall passing in the district summary where the Nans were removed.  
